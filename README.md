@@ -6,8 +6,8 @@
 
 **Publication Details**:
 
-**Conference**: 2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)
-**Dates**: Conference held on 09-10 February 2024; Added to IEEE Xplore on 08 April 2024
-**Location**: Greater Noida, India
-**DOI**: 10.1109/IC2PCT60090.2024.10486464
-**Publisher**: IEEE
+* **Conference**: 2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)
+* **Dates**: Conference held on 09-10 February 2024; Added to IEEE Xplore on 08 April 2024
+* **Location**: Greater Noida, India
+* **DOI**: 10.1109/IC2PCT60090.2024.10486464
+* **Publisher**: IEEE
