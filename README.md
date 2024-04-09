@@ -1,10 +1,13 @@
-High occupancy in a room with improper ventilation and outdoor air pollution can significantly impact the occupants’ comfort and productivity which may also lead to various health-related issues. In this work, we have studied the relationship of occupancy in a classroom with the various environmental parameters prevailing in that room, such as concentration of CO 2 , PM 1 , PM 2.5 , PM 10 , and levels of Temperature, Relative Humidity, and Acoustics. All the above parameters affect indoor occupancy significantly. The real-time data acquisition has been done using a custom device. Collected contextual information helped us to find the relationships among primary features needed to develop estimation models for accurate classroom occupancy prediction. For random sampling, occupancy estimation accuracy ranges from 91% to 99%. Finally, results show that multiple environmental sensor data performed well in predicting occupancy levels.
+**Abstract**:
 
+* **Context**: This study examines the relationship between classroom occupancy and environmental parameters like CO2, PM1, PM2.5, PM10, Temperature, Relative Humidity, and Acoustics.
+* **Methodology**: Data was collected in real-time using a custom device, which helped establish relationships among primary features for developing accurate occupancy prediction models.
+* **Results**: The study achieved an occupancy estimation accuracy ranging from 91% to 99% using multiple environmental sensor data.
 
-Published in: 2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)
-Date of Conference: 09-10 February 2024
-Date Added to IEEE Xplore: 08 April 2024
-ISBN Information:
-DOI: 10.1109/IC2PCT60090.2024.10486464
-Publisher: IEEE
-Conference Location: Greater Noida, India
+**Publication Details**:
+
+**Conference**: 2024 IEEE International Conference on Computing, Power and Communication Technologies (IC2PCT)
+**Dates**: Conference held on 09-10 February 2024; Added to IEEE Xplore on 08 April 2024
+**Location**: Greater Noida, India
+**DOI**: 10.1109/IC2PCT60090.2024.10486464
+**Publisher**: IEEE
