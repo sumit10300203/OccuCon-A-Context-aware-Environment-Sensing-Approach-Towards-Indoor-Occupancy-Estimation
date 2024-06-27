@@ -24,3 +24,7 @@
 * Sumit Dhar - sumit12000120073@gmail.com
 * Saptarshi Ghosh - g2saptarshi@gmail.com
 * Abhik Mndal - mandalabhik75@gmail.com
+
+
+
+**ML Google Colab Notebook Link -** _https://colab.research.google.com/drive/1Bt5fYm404Dwid_YFFZdOxCalK8jWncV0?usp=sharing_
