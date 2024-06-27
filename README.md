@@ -1,3 +1,7 @@
+![image](https://github.com/sumit10300203/OccuCon-A-Context-aware-Environment-Sensing-Approach-Towards-Indoor-Occupancy-Estimation/assets/66067910/a9f6549c-065d-4279-95ef-aa4cba27d706)
+
+
+
 **Abstract**:
 
 * **Context**: This study examines the relationship between classroom occupancy and environmental parameters like CO2, PM1, PM2.5, PM10, Temperature, Relative Humidity, and Acoustics.
