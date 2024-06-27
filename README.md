@@ -14,3 +14,13 @@
 * **Link**: _https://doi.org/10.1109/IC2PCT60090.2024.10486464_
 
 **For More Info, visit the link for the published paper, view the report and PPT attached. Datasets and Notebooks are provided.**
+
+**This work has been completed collaboratively by-**
+* *Sumit Dhar (Machine Learning Part)*
+* *Saptarshi Ghosh (IOT Box Developer + Arduino Part)*
+* *Abhik Mandal (Data Analysis Part)*
+
+**For queries, contact-**
+* Sumit Dhar - sumit12000120073@gmail.com
+* Saptarshi Ghosh - g2saptarshi@gmail.com
+* Abhik Mndal - mandalabhik75@gmail.com
